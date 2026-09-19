@@ -11,6 +11,6 @@ SELECT
         WHEN Status = '03' THEN 'Cancelled'
         ELSE NULL
     END AS StatusDesc,
-    Updated_at
+    
 FROM
     L1_LANDING.ORDERS

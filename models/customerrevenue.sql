@@ -10,3 +10,5 @@ JOIN
 GROUP BY
 OS.CustomerID,
 C.CustomerName
+
+-- Testing the git commit
